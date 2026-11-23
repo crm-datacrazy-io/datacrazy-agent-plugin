@@ -1,0 +1,27 @@
+{
+  "name": "datacrazy",
+  "version": "0.1.0",
+  "description": "Opere sua conta Datacrazy por agentes de IA: leads, negócios, atendimento, automações e relatórios.",
+  "author": {
+    "name": "Datacrazy",
+    "url": "https://datacrazy.io"
+  },
+  "homepage": "https://datacrazy.io",
+  "keywords": [
+    "datacrazy",
+    "crm",
+    "whatsapp",
+    "automacao",
+    "mcp"
+  ],
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "Chave de API do Datacrazy (produção)",
+      "description": "Gere em https://crm.datacrazy.io/config/api (Configurações > Chaves de API). Fica no armazenamento seguro do sistema.",
+      "sensitive": true,
+      "required": true
+    }
+  },
+  "icon": "./assets/icon.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "datacrazy",
+  "description": "Plugin do Datacrazy para agentes de IA",
+  "owner": {
+    "name": "Datacrazy"
+  },
+  "plugins": [
+    {
+      "name": "datacrazy",
+      "source": "./",
+      "description": "Opere sua conta Datacrazy por agentes de IA: leads, negócios, atendimento, automações e relatórios."
+    }
+  ]
+}

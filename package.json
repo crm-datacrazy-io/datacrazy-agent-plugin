@@ -1,0 +1,11 @@
+{
+  "name": "datacrazy-agent-plugin",
+  "version": "0.1.0",
+  "description": "Opere sua conta Datacrazy por agentes de IA: leads, negócios, atendimento, automações e relatórios.",
+  "private": true,
+  "type": "module",
+  "main": "server/index.mjs",
+  "engines": {
+    "node": ">=18"
+  }
+}

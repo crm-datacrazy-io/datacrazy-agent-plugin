@@ -23,5 +23,12 @@
       "required": true
     }
   },
-  "icon": "./assets/icon.png"
+  "icon": "./assets/icon.png",
+  "license": "Apache-2.0",
+  "network": {
+    "hosts": [
+      "api.g1.datacrazy.io",
+      "raw.githubusercontent.com"
+    ]
+  }
 }

@@ -71,3 +71,7 @@ O núcleo não depende de nenhuma ferramenta:
 Cada ferramenta tem só o seu adaptador:
 
 - Claude Code: `.claude-plugin/` e `.mcp.json`.
+
+## Licença
+
+[Apache-2.0](LICENSE). A licença não concede uso do nome nem da marca Datacrazy.
